@@ -1,1 +1,1 @@
-Shit code writing skills.
+Shit programming skills.
