@@ -1,7 +1,22 @@
 <div align="center">
-  <!-- Animated Cyber-Tech Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=180&section=header&text=patrick%20david&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=sys.init()%20%E2%80%A2%20bsit%20%40%20nu%20clark&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <!-- Monumental Monochrome Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,50:18181B,100:27272A&height=230&section=header&text=PATRICK%20DAVID&fontSize=56&fontColor=FAFAFA&fontAlignY=38&desc=SYS.INIT()%20%2F%2F%20BSIT%20%40%20NU%20CLARK%20%2F%2F%20TAKE%20TWO%20PRODUCTIONS&descAlignY=62&descSize=14&descColor=A1A1AA&animation=fadeIn" width="100%" />
 
-  <!-- Terminal Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+initializing+take_two_productions.exe...;%3E+stack%3A+java+%7C+mysql+%7C+html%2Fcss+%7C+c%2B%2B;%3E+focus%3A+frontend+ui%2C+hardware+%26+motion+design;%3E+status%3A+building+%26+rendering..." alt="Terminal Typing SVG" />
+  <!-- Cinematic Terminal Boot Sequence -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=900&color=F4F4F5&center=true&vCenter=true&width=750&lines=%5BSYS%5D+BOOTING+ENVIRONMENT+...+OK;%3E+ARCHITECTING+CLEAN+CODE+%26+MODERN+UI;%3E+STACK%3A+JAVA+%2F%2F+MYSQL+%2F%2F+HTML5+%2F%2F+CSS3+%2F%2F+C%2B%2B;%3E+CRAFT%3A+FRONTEND+DESIGN%2C+HARDWARE+%26+MOTION;%3E+STATUS%3A+BUILDING+SYSTEMS+THAT+SCALE." alt="Terminal Boot Sequence" />
+
+  <br /><br />
+
+  <!-- Monochrome Stack Pill Bar -->
+  <img src="https://img.shields.io/badge/JAVA-09090B?style=for-the-badge&logo=openjdk&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/MYSQL-09090B?style=for-the-badge&logo=mysql&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/HTML5-09090B?style=for-the-badge&logo=html5&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/CSS3-09090B?style=for-the-badge&logo=css3&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/C%2B%2B-09090B?style=for-the-badge&logo=cplusplus&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/PREMIERE_PRO-09090B?style=for-the-badge&logo=adobepremierepro&logoColor=FAFAFA" />
+
+  <br /><br />
+
+  <!-- Architectural Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=2&section=header" width="85%" />
 </div>
