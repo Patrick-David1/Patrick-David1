@@ -1,30 +1,93 @@
-<div align="center">
-  <!-- Sleek Monochrome Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:141417,100:27272A&height=210&section=header&text=PATRICK%20DAVID&fontSize=54&fontColor=FAFAFA&fontAlignY=36&desc=BSIT%20%40%20NU%20CLARK%20%E2%80%A2%203.65%20DEAN'S%20LISTER%20%E2%80%A2%20TAKE%20TWO%20PRODUCTIONS&descAlignY=58&descSize=13&descColor=A1A1AA&animation=fadeIn" width="100%" />
+&#x20;\<div align="center">
 
-  <!-- Terminal Boot & Stack Sequence -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=950&color=E4E4E7&center=true&vCenter=true&width=780&lines=%3E+initializing+patrick_david.sys...;%3E+dev%3A+java+(swing+%2F+jdbc)+%7C+mysql+%2F+xampp+%7C+c+%7C+c%2B%2B;%3E+web+%26+ops%3A+html5+%7C+css3+%7C+windows+batch+scripting;%3E+creative%3A+director+%26+editor+%40+take+two+productions;%3E+modding%3A+custom+pc+thermals%2C+windhawk+%26+rainmeter." alt="Terminal Typing SVG" />
+&#x20; \<!-- Animated Gradient Header -->
 
-  <br /><br />
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:172554,70:312E81,100:09090B&height=230&section=header&text=PATRICK%20DAVID&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20CREATIVE&descAlignY=55&descSize=15&descColor=A5B4FC&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:09090B,35:172554,70:312E81,100:09090B\&height=230\&section=header\&text=PATRICK%20DAVID\&fontSize=58\&fontColor=FFFFFF\&fontAlignY=35\&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20CREATIVE\&descAlignY=55\&descSize=15\&descColor=A5B4FC\&animation=fadeIn)" width="100%" />
 
-  <!-- Primary Dev & Database Stack -->
-  <img src="https://img.shields.io/badge/JAVA-09090B?style=flat-square&logo=openjdk&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/MYSQL-09090B?style=flat-square&logo=mysql&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/XAMPP-09090B?style=flat-square&logo=xampp&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/CSS3-09090B?style=flat-square&logo=css3&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/C-09090B?style=flat-square&logo=c&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/C%2B%2B-09090B?style=flat-square&logo=cplusplus&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/BATCH-09090B?style=flat-square&logo=windowsterminal&logoColor=FAFAFA" />
+&#x20; \<br/>
 
-  <br />
+&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)">     \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!+I](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=16\&duration=2500\&pause=1000\&color=60A5FA\&center=true\&vCenter=true\&width=650\&lines=%3E+Hello%2C+World!+I)'m+Patrick.;%3E+Building+things+through+code+and+creativity.;%3E+Turning+ideas+into+functional+experiences.;%3E+Always+learning.+Always+building." alt="Typing SVG"/>   \</a>
 
-  <!-- Post-Production & Creative Suite -->
-  <img src="https://img.shields.io/badge/CAPCUT_PRO-18181B?style=flat-square&logo=bytedance&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/MOTION_GRAPHICS-18181B?style=flat-square&logo=adobeaftereffects&logoColor=FAFAFA" />
+\<br/>\<br/>
 
-  <br /><br />
+&#x20; \<p>     \<img src="[https://img.shields.io/badge/BSIT-NU%20CLARK-2563EB?style=for-the-badge&logo=academia&logoColor=white](https://img.shields.io/badge/BSIT-NU%20CLARK-2563EB?style=for-the-badge\&logo=academia\&logoColor=white)"/>     \<img src="[https://img.shields.io/badge/BASED_IN-Philippines-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white](https://img.shields.io/badge/BASED_IN-Philippines-7C3AED?style=for-the-badge\&logo=googlemaps\&logoColor=white)"/>     \<img src="[https://img.shields.io/badge/CREATIVE-TAKE%20TWO-0891B2?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/CREATIVE-TAKE%20TWO-0891B2?style=for-the-badge\&logo=youtube\&logoColor=white)"/>   \</p>
 
-  <!-- Minimalist Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1&section=header" width="75%" />
-</div>
+\</div>
+
+---
+
+### `01 / ABOUT ME`
+
+I'm Patrick David, an IT student with an interest in software development, interface design, and digital media production.
+
+I enjoy working at the intersection of technology and creativity — whether that's developing desktop applications, experimenting with UI concepts, modifying PC environments, or producing visual content.
+
+I believe good technology isn't just about making things work. It's about making them work well, look good, and feel intuitive.
+
+---
+
+### `02 / TECH STACK`
+
+**\<img src="[https://img.shields.io/badge/01-DEVELOPMENT-2563EB?style=flat-square](https://img.shields.io/badge/01-DEVELOPMENT-2563EB?style=flat-square)"/> Software & Programming**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=java,cpp,mysql,html,windows&theme=dark](https://skillicons.dev/icons?i=java,cpp,mysql,html,windows\&theme=dark)"/> \</p>
+
+\<img src="[https://img.shields.io/badge/ENVIRONMENT-09090B?style=flat-square](https://img.shields.io/badge/ENVIRONMENT-09090B?style=flat-square)"/> Java Swing · JDBC · MySQL · XAMPP · Windows Batch Scripting
+
+\<br/>
+
+**\<img src="[https://img.shields.io/badge/02-DESIGN-7C3AED?style=flat-square](https://img.shields.io/badge/02-DESIGN-7C3AED?style=flat-square)"/> UI & Visual Design**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=figma,ps,canva&theme=dark](https://skillicons.dev/icons?i=figma,ps,canva\&theme=dark)"/> \</p>
+
+\<img src="[https://img.shields.io/badge/FOCUS-09090B?style=flat-square](https://img.shields.io/badge/FOCUS-09090B?style=flat-square)"/> UI Design · Graphic Design · Photo Editing · Visual Composition
+
+\<br/>
+
+**\<img src="[https://img.shields.io/badge/03-CREATIVE-0891B2?style=flat-square](https://img.shields.io/badge/03-CREATIVE-0891B2?style=flat-square)"/> Media Production**
+
+\<p>   \<img src="[https://img.shields.io/badge/VIDEO_PRODUCTION-18181B?style=flat-square&logo=youtube&logoColor=white](https://img.shields.io/badge/VIDEO_PRODUCTION-18181B?style=flat-square\&logo=youtube\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/CAPCUT-18181B?style=flat-square&logo=capcut&logoColor=white](https://img.shields.io/badge/CAPCUT-18181B?style=flat-square\&logo=capcut\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/AFTER_EFFECTS-18181B?style=flat-square&logo=adobeaftereffects&logoColor=white](https://img.shields.io/badge/AFTER_EFFECTS-18181B?style=flat-square\&logo=adobeaftereffects\&logoColor=white)"/> \</p>
+
+Video Production · Directing · Editing · Motion Graphics
+
+\<br/>
+
+**\<img src="[https://img.shields.io/badge/04-TECHNICAL-64748B?style=flat-square](https://img.shields.io/badge/04-TECHNICAL-64748B?style=flat-square)"/> Hardware & Customization**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=linux,github&theme=dark](https://skillicons.dev/icons?i=linux,github\&theme=dark)"/>   \<img src="[https://img.shields.io/badge/PC_BUILDING-18181B?style=flat-square&logo=amd&logoColor=white](https://img.shields.io/badge/PC_BUILDING-18181B?style=flat-square\&logo=amd\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/WINDOWS_MODDING-18181B?style=flat-square&logo=windows&logoColor=white](https://img.shields.io/badge/WINDOWS_MODDING-18181B?style=flat-square\&logo=windows\&logoColor=white)"/> \</p>
+
+PC Building · Hardware Troubleshooting · Rainmeter · Windhawk · System Customization
+
+---
+
+### `03 / BEYOND THE CODE`
+
+\<div align="center">
+
+|      DEVELOPMENT     |      DESIGN      |    PRODUCTION   |
+| :------------------: | :--------------: | :-------------: |
+| Desktop Applications | Interface Design |  Video Editing  |
+|   Database Systems   |  Graphic Design  |    Directing    |
+|      Programming     |   Photo Editing  | Motion Graphics |
+
+\</div>
+
+**TAKE TWO PRODUCTIONS**
+
+An outlet for creative experimentation, visual storytelling, and media production.
+
+---
+
+### `04 / CONNECT`
+
+\<div align="center">
+
+&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)">     \<img src="[https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)"/>   \</a>   \<a href="YOUR_LINKEDIN_URL">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>   \</a>
+
+\<br/>\<br/>
+
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:312E81,100:09090B&height=3&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:172554,50:312E81,100:09090B\&height=3\&section=footer)" width="80%"/>
+
+\<sub>Building with curiosity. Creating with intention.\</sub>
+
+\</div>
