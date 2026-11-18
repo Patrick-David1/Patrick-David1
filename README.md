@@ -7,6 +7,13 @@
 
   <br /><br />
 
+  <!-- Creative Terminal Launch Button -->
+  <a href="https://patrick-david1.github.io/patrickdvd.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%24%20.%2Flaunch-PATRICK__DAVID.IO%20%E2%86%97-FAFAFA?style=for-the-badge&labelColor=09090B" alt="Launch Full Overview" />
+  </a>
+
+  <br /><br />
+
   <!-- Primary Dev, Database & Scripting Stack (Vibrant Brand Accents) -->
   <img src="https://img.shields.io/badge/JAVA-18181B?style=flat-square&logo=openjdk&logoColor=F89820" />
   <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00599C" />
